@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br><br> 🔭 I'm currently working on web development projects with HTML, CSS, JavaScript, and C++.<br> 🧑‍🤝‍🧑 I'm looking to collaborate on beginner-friendly open-source and university projects.<br> 🤝 I'm looking for help with improving my full-stack development skills.<br> 🌱 I'm currently learning Software Engineering fundamentals, C++, and Web Development.<br> 💬 Ask me about HTML, CSS, JavaScript, C++, or beginner web projects.<br> ⚡ Fun fact: I enjoy turning ideas into real websites and always love learning new tech.
+<br>Hi, I'm Asfandyar jadoon
+<br> 🔭 I'm currently working on web development projects with HTML, CSS, JavaScript, and C++.<br> 🧑‍🤝‍🧑 I'm looking to collaborate on beginner-friendly open-source and university projects.<br> 🤝 I'm looking for help with improving my full-stack development skills.<br> 🌱 I'm currently learning Software Engineering fundamentals, C++, and Web Development.<br> 💬 Ask me about HTML, CSS, JavaScript, C++, or beginner web projects.<br> ⚡ Fun fact: I enjoy turning ideas into real websites and always love learning new tech.
 
 
 ## 🌐 Socials:
